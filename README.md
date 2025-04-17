@@ -80,6 +80,4 @@ Work locally using your preferred IDE. Clone the repo and push changes as needed
 - Custom UI components with shadcn-ui
 - Utility-first CSS with Tailwind
 
-## Contributing
 
-We welcome contributions! Please feel free to submit pull requests.
