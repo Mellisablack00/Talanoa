@@ -8,7 +8,7 @@ Talanoa is an innovative email application that reimagines how we interact with 
 
 ## Getting Started
 
-### Prerequisites
+
 
 - Node.js and npm (Install using [nvm](https://github.com/nvm-sh/nvm#installing-and-updating))
 
